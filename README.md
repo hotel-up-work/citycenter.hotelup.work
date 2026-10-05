@@ -1,6 +1,6 @@
 # City Center Residence
 
-Live site: https://citycenter.chernivtsi.space
+Live site: https://citycenter.hotelup.work
 
 ## About
 City Center Residence — готель у Чернівцях. Односторінковий лендинг. Фото закладу немає (`photos_source: null`), тому hero типографічний (CSS/SVG), а єдині фото — міста Чернівців з Pexels (див. Photos).
